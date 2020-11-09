@@ -1,0 +1,2 @@
+# Tendencias
+Distribucion de equipos
