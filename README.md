@@ -12,5 +12,5 @@ Distribucion de equipos
  
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://media.geeksforgeeks.org/wp-content/uploads/20200121161603/System-Setting.jpg "Logo Title Text 2"
  * 
