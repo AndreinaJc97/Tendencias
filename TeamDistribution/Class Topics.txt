@@ -1,0 +1,15 @@
+Testing and comunication efforts
+Security in cloud computing masters
+A Guide to High Performance Programs
+An Analysis of the Simple Virus Program
+An Introduction to the Modern Programming Language
+Principles of Software Design and Development
+Object-oriented programming (oop)/ event-driven programming (edp) vs procedural programming (pp)
+Programming for reusability: juniors in a organization
+Agile methodologies: scrum and extreme programming
+Effects of open-source on the quality of software products
+Software: content and functional requirements
+Software engineering body of knowledge
+testing and quality assurance
+Big data and mining
+Penetration testing
