@@ -1,4 +1,7 @@
 # Tendencias
+
+## Andreina Jimenez Castillo 1070929
+
 Distribucion de equipos
 ## Pre-requisitos
 
