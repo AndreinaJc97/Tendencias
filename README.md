@@ -16,7 +16,7 @@ Distribucion de equipos
 
 ![alt text][logo]
 
-[logo]: https://media.geeksforgeeks.org/wp-content/uploads/20200121161557/Environment-variable-setup-01.jpg "Variables de entorno"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 * Paso 2: Ahora, tenemos que modificar la variable "Ruta" en Variables del sistema para que también contenga la ruta al entorno .NET Framework . Seleccione la variable "Ruta" y haga clic en el botón Editar como se muestra a continuación:
 
