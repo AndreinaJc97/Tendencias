@@ -10,6 +10,9 @@ Distribucion de equipos
  
  * Paso 1: Vaya a Panel de control -> Sistema y seguridad -> Sistema . En la opción Configuración avanzada del sistema , haga clic en Variables de entorno como se muestra a continuación:
 
+
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20200121161603/System-Setting.jpg "Panel de control -> Sistema y seguridad -> Sistema")
+
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
