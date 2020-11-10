@@ -22,7 +22,7 @@ Distribucion de equipos
 
 ![alt text][logo]
 
-[logo]: https://media.geeksforgeeks.org/wp-content/uploads/20200121161603/System-Setting.jpg "Panel de control -> Sistema y seguridad -> Sistema"
+[logo]: https://media.geeksforgeeks.org/wp-content/uploads/20200129133525/C-Command-Prompt-Environment-Setup.jpg "Panel de control -> Sistema y seguridad -> Sistema"
 
 * Paso 3: Veremos una lista de diferentes rutas, damos clic en el botón Nuevo y luego agregaremos la ruta donde está instalado .NET Framework .
 
