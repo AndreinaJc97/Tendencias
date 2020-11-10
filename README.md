@@ -17,7 +17,7 @@ Distribucion de equipos
 
 * Paso 2: Ahora, tenemos que modificar la variable "Ruta" en Variables del sistema para que también contenga la ruta al entorno .NET Framework . Seleccione la variable "Ruta" y haga clic en el botón Editar como se muestra a continuación:
 
-![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20200129133525/C-Command-Prompt-Environment-Setup.jpg "Enviroment variable")
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20200121164500/Environment-variable-setup-02-1.jpg "Enviroment variable")
 
 * Paso 3: Veremos una lista de diferentes rutas, damos clic en el botón Nuevo y luego agregaremos la ruta donde está instalado .NET Framework .
 
@@ -25,9 +25,8 @@ Distribucion de equipos
 
  * Paso 4: Haga clic en Aceptar , guarde la configuración y listo. Ahora para comprobar si la configuración del entorno se ha realizado correctamente, abra el símbolo del sistema y escriba csc .
 
- ![alt text][logo]
 
-[logo]: https://media.geeksforgeeks.org/wp-content/uploads/20200129133648/C-Command-Prompt-02.jpg "Editar enviroment variable"
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20200129133648/C-Command-Prompt-02.jpg "Enviroment variable")
 
 ## Pasos para ejecutar el programa C # en cmd
 
